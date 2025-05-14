@@ -7,7 +7,7 @@
 👤 About Me
 
 I’m Volodymyr, an independent financial analyst and algorithm developer with 6+ years of self‑directed experience across all liquid markets.  
-My primary focus today is the crypto space (ETH/USDT), but my Harmonic Flow of Energy framework works anywhere there’s volume, momentum and structure.
+My primary focus today is the crypto space, but my Harmonic Flow of Energy framework works anywhere there’s volume, momentum and structure.
 
 ---
 
