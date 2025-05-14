@@ -1,60 +1,38 @@
-<h1 align="center">Volodymyr Snitko</h1>
-<h3 align="center">Professional Trader · Market Analyst · System Thinker</h3>
+ 🌊 Harmonic Flow of Energy (HFE) in Financial Markets
 
-<p align="center">
-  <i>“In markets, those who understand — not those who react — are the ones who endure.”</i>
-</p>
+> “Markets breathe. I read their pulse.”
 
 ---
 
-🎯 About Me
+👤 About Me
 
-I’m a trader, analyst, and thinker driven by the desire to see the structure behind motion.  
-My journey began in 2019 — not with noise, but with curiosity. Since then, I have cultivated a unique system of market interpretation:  
-the Harmonious Energy Flow (HEF).
-
-I combine technical clarity, strategic calm, and philosophical consistency 
-to read the market like a living system — not a series of unpredictable events.
+I’m Volodymyr, an independent financial analyst and algorithm developer with 6+ years of self‑directed experience across all liquid markets.  
+My primary focus today is the crypto space (ETH/USDT), but my Harmonic Flow of Energy framework works anywhere there’s volume, momentum and structure.
 
 ---
 
-📌 Focus Areas
+## 🧩 My Proprietary Framework & Algorithm
 
-- Proprietary Trading (Crypto, Futures)
-- Market Phase Analysis & Volume Interpretation
-- Range Logic with Phase Energy Models (GPE Method)
-- Systematic Risk Management
-- Pine Script Development
-- Education & Structural Content Creation
+At the heart of my approach lies a balance of technical rigor and mindful observation. I process raw market data into high‑confidence signals:
 
----
+1. **Flow**  
+   – *“Who leads the movement?”*  
+   Every candlestick, every volume spike carries an energetic signature. We observe, we don’t guess.
 
-🔍 Key Project: [GPE Range Analyzer]
+2. **Harmony**  
+   – *“Is price, volume & structure aligned?”*  
+   Trade only when the components sing in unison. Discord signals pause.
 
-A TradingView indicator based on the Harmonious Energy Flow concept.  
-Designed to detect subtle shifts in energy and direction within market ranges.
+3. **Proportions**  
+   – *“Length, time & force matter.”*  
+   Impulse vs. retracement, wide vs. narrow range—each ratio tells a story.
 
-> “Each wave is not a random motion — it's a phase of the market's internal conversation.”
+4. **Context**  
+   – *“No signal stands alone.”*  
+   A breakout on 15 m is meaningless if the daily trend contradicts it.
 
----
+5. **Calm**  
+   – *“Clear flow brings clear action.”*  
+   When the mind is still, decisions emerge naturally—no FOMO, no panic.
 
-🧠 Philosophy in Action
-
-- Depth through simplicity: Every concept I use is distilled to its essence.
-- Imagery through essence: Charts are not noise; they are language.
-- Professionalism through balance: Between algorithm and awareness.
-- Intellectual calm: No reaction, only structured observation.
-- Invitation to think: I don't chase. I recognize. I prepare.
-
----
-
-📬 Let’s connect
-
-- Telegram: [@WVitalievich](https://t.me/WVitalievich)  
-- Email: [svkSnitko@gmail.com](mailto:svkSnitko@gmail.com)  
- 
- 
-
----
-
-<p align="center"><i>“The market rewards precision, not noise.”</i></p>
+**Algorithm Pipeline**:  
