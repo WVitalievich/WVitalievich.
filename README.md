@@ -52,5 +52,5 @@ If this resonates with your quest for **clarity over noise**, let’s explore to
 
 ---
 
-© [Year] [Your Name] • This page reflects my professional journey in blending **technique** and **philosophy**, crafting a calm, confident pathway through today’s markets.  
+© 2025 WVitalievich • This page reflects my professional journey in blending **technique** and **philosophy**, crafting a calm, confident pathway through today’s markets.  
 
