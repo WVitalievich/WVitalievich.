@@ -35,4 +35,22 @@ At the heart of my approach lies a balance of technical rigor and mindful observ
    – *“Clear flow brings clear action.”*  
    When the mind is still, decisions emerge naturally—no FOMO, no panic.
 
-**Algorithm Pipeline**:  
+
+
+
+
+
+## ✨ Let’s Collaborate
+
+If this resonates with your quest for **clarity over noise**, let’s explore together:
+
+- 📩 **Email**: svkSnitko@gmail.com 
+- 💬 **Telegram**: [@yourhandle](https://t.me/@WVitalievich)  
+- 
+
+> *“What if you listened to the market’s breath?”*
+
+---
+
+© [Year] [Your Name] • This page reflects my professional journey in blending **technique** and **philosophy**, crafting a calm, confident pathway through today’s markets.  
+
